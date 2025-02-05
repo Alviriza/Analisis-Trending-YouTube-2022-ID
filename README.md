@@ -52,7 +52,7 @@ Dataset yang digunakan berasal dari **YouTube Trending Videos 2022 (Indonesia)**
 
 ## 🛠️ Teknologi yang Digunakan  
 🔹 **Python** (pandas, numpy, matplotlib, seaborn)  
-🔹 **Google Colab** (untuk menjalankan notebook) 
+🔹 **Google Colab** (untuk menjalankan notebook) <br>
 🔹 **GitHub & Canva** (untuk dokumentasi & presentasi)  
 
 <br>
@@ -62,12 +62,14 @@ Dataset yang digunakan berasal dari **YouTube Trending Videos 2022 (Indonesia)**
 ```bash
 git clone https://github.com/username/Analisis-Trending-YouTube-2022.git
 ```
-2️⃣ **Jalankan Notebook di Google Colab atau Jupyter Notebook**
+2️⃣ **Jalankan Notebook di Google Colab atau Jupyter Notebook** <br>
 3️⃣ **Eksekusi setiap sel untuk melihat hasil analisis 📊**
 
 <br>
 
 ## 🤝 Kontribusi
 Tertarik untuk berkontribusi atau berdiskusi? Jangan ragu untuk membuka issue atau mengajukan pull request! 🚀
-<br>
-📩 Hubungi saya di LinkedIn: linkedin.com/in/your-profile
+<br> <br>
+📩 Hubungi saya di LinkedIn: linkedin.com/in/Alviriza
+<br><br>
+⭐ Jika proyek ini bermanfaat, jangan lupa beri star! Terimakasih! ⭐
