@@ -4,7 +4,7 @@ Bagaimana sebuah video bisa masuk halaman **YouTube Trending**? Apakah **jumlah 
 
 Dalam proyek ini, saya menganalisis **pola-pola utama** yang mempengaruhi apakah sebuah video berpotensi trending menggunakan dataset **YouTube Trending di Indonesia sepanjang tahun 2022**.  
 
----
+
 
 ## 📌 Tujuan Analisis  
 ✅ Memahami pola distribusi **views, likes, comments, dan durasi video** 🎥  
@@ -13,7 +13,7 @@ Dalam proyek ini, saya menganalisis **pola-pola utama** yang mempengaruhi apakah
 ✅ Menentukan **waktu unggah terbaik** untuk meningkatkan peluang trending ⏰  
 ✅ Mengungkap **strategi keyword, tag, dan judul video** yang efektif 🔠  
 
----
+
 
 ## 🔍 Hasil Analisis & Insight Menarik  
 📢 **Beberapa temuan utama dari analisis ini:**  
@@ -25,7 +25,7 @@ Dalam proyek ini, saya menganalisis **pola-pola utama** yang mempengaruhi apakah
 
 > 📊 *Lihat lebih banyak insight dalam notebook analisis lengkap!*  
 
----
+
 
 ## 📂 Dataset  
 Dataset yang digunakan berasal dari **YouTube Trending Videos 2022 (Indonesia)** yang diperoleh melalui **YouTube API** dan sumber open dataset.  
@@ -37,7 +37,7 @@ Dataset yang digunakan berasal dari **YouTube Trending Videos 2022 (Indonesia)**
 - **Resolusi Video, Ketersediaan Caption** 🖥️  
 - **Tag & Keyword dalam Judul** 🏷️  
 
----
+
 
 ## 🚀 Struktur Repository  
 📂 Analisis-Trending-YouTube-2022
@@ -48,14 +48,14 @@ Dataset yang digunakan berasal dari **YouTube Trending Videos 2022 (Indonesia)**
 │── 📂 presentation/ # File presentasi (Canva/PDF)
 │── 📂 scripts/ # Kode tambahan untuk ekstraksi & analisis data
 
----
+
 
 ## 🛠️ Teknologi yang Digunakan  
 🔹 **Python** (pandas, numpy, matplotlib, seaborn)  
 🔹 **Google Colab** (untuk menjalankan notebook) 
 🔹 **GitHub & Canva** (untuk dokumentasi & presentasi)  
 
----
+
 
 ## 💻 Cara Menjalankan Proyek  
 1️⃣ **Clone repository ini:**  
