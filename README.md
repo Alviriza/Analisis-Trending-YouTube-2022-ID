@@ -41,11 +41,11 @@ Dataset yang digunakan berasal dari **YouTube Trending Videos 2022 (Indonesia)**
 
 ## 🚀 Struktur Repository  
 ```md
-📂 Analisis-Trending-YouTube-2022-ID/ <br>
-├── 📊 Analisis_Trending_Youtube_Indonesia.ipynb <br>
-├── 📂 Dataset/ <br>
-│   ├── 📄 trending.csv <br>
-│   └── 📄 category.json <br>
+📂 Analisis-Trending-YouTube-2022-ID
+├── 📊 Analisis_Trending_Youtube_Indonesia.ipynb 
+├── 📂 Dataset
+│   ├── 📄 trending.csv 
+│   └── 📄 category.json 
 └── 📜 README.md
 ```  
 
