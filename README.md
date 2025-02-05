@@ -61,7 +61,7 @@ Dataset yang digunakan pada project ini bersumber dari [Kaggle](https://www.kagg
 ## 💻 Cara Menjalankan Proyek  
 1️⃣ **Clone repository ini:**  
 ```bash
-git clone https://github.com/username/Analisis-Trending-YouTube-2022.git
+git clone https://github.com/Alviriza/Analisis-Trending-YouTube-2022-ID.git
 ```
 2️⃣ **Jalankan Notebook di Google Colab atau Jupyter Notebook** <br>
 3️⃣ **Eksekusi setiap sel untuk melihat hasil analisis 📊**
