@@ -28,7 +28,7 @@ Dalam proyek ini, saya menganalisis **pola-pola utama** yang mempengaruhi apakah
 <br>
 
 ## 📂 Dataset  
-Dataset yang digunakan berasal dari **YouTube Trending Videos 2022 (Indonesia)** yang diperoleh melalui **YouTube API** dan sumber open dataset.  
+Dataset yang digunakan pada project ini bersumber dari [Kaggle](https://www.kaggle.com/datasets/syahrulhamdani/indonesias-trending-youtube-video-statistics), yang merupakan kumpulan data video trending YouTube Indonesia pada tahun 2022. 
 
 📌 **Fitur utama dalam dataset:**  
 - **Video ID, Judul, Channel, Kategori** 🎬  
