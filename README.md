@@ -40,12 +40,14 @@ Dataset yang digunakan berasal dari **YouTube Trending Videos 2022 (Indonesia)**
 <br>
 
 ## 🚀 Struktur Repository  
-📂 Analisis-Trending-YouTube-2022-ID/
-├── 📊 Analisis_Trending_Youtube_Indonesia.ipynb
-├── 📂 Dataset/
-│   ├── 📄 trending.csv
-│   └── 📄 category.json
-└── 📜 README.md  
+```md
+📂 Analisis-Trending-YouTube-2022-ID/ <br>
+├── 📊 Analisis_Trending_Youtube_Indonesia.ipynb <br>
+├── 📂 Dataset/ <br>
+│   ├── 📄 trending.csv <br>
+│   └── 📄 category.json <br>
+└── 📜 README.md
+```  
 
 <br>
 
@@ -69,6 +71,6 @@ git clone https://github.com/username/Analisis-Trending-YouTube-2022.git
 ## 🤝 Kontribusi
 Tertarik untuk berkontribusi atau berdiskusi? Jangan ragu untuk membuka issue atau mengajukan pull request! 🚀
 <br> <br>
-📩 Hubungi saya di LinkedIn: linkedin.com/in/Alviriza
+📩 Hubungi saya di LinkedIn: [linkedin.com/in/Alviriza](https://linkedin.com/in/Alviriza)
 <br><br>
 ⭐ Jika proyek ini bermanfaat, jangan lupa beri star! Terimakasih! ⭐
